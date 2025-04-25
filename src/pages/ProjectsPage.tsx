@@ -10,7 +10,7 @@ const ProjectsPage = () => {
       techStack: ["Python", "Flask", "AWS", "HTML", "CSS", "JavaScript", "GeoJSON", "OpenStreetMap API"],
       imageUrl: "/assets/disaster.jpg", // Use a placeholder for now
       githubUrl: "https://github.com/venkatesh1545/dronex-rescue-network", // Placeholder: add GitHub repo when ready
-      liveUrl: "#" // Optional: deploy link if hosted
+      liveUrl: "https://dronex-rescue-network.vercel.app/" // Optional: deploy link if hosted
     },
     {
       title: "ElevateEd - AI-Based Interactive Learning Platform",
