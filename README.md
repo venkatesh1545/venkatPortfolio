@@ -53,7 +53,4 @@ The **Navbar** is fixed at the top for smooth access across all pages. Here’s 
 - **Forms**: EmailJS / Formspree (for direct contact)
 - **Hosting**: [Your chosen hosting service]
 
----
-
-## 📁 Folder Structure (Simplified)
 
